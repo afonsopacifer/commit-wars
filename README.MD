@@ -50,7 +50,8 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [ ] Atingir 1.000 contribuições
 
 ##Registros da aventura :memo:
-- [Epsode I - A Ameaça Fantasma | Maio - 2015](https://medium.com/@afonsopacifer/commit-wars-5c51ddd837cd)
+- [Episode I - A Ameaça Fantasma | Maio - 2015](https://medium.com/@afonsopacifer/commit-wars-5c51ddd837cd)
+- [Episode II - Ataque dos Clones | Junho - 2015](https://medium.com/@afonsopacifer/commit-wars-a6cd5372b46)
 
 ##Dicas :bulb:
 - Os commits devem ser feitos nas primeiras horas do dia, por exemplo as 00:30h.
