@@ -4,23 +4,23 @@ Minhas aventuras pelo mundo Open Source na jornada *[Write Code Every Day](http:
 
 > Inspirado por [Raphael Amorim](https://github.com/raphamorim) e [sua história](https://github.com/raphamorim/500-dias-de-open-source).
 
-##Minha Gamificação :)
+##Minha Gamificação :video_game:
 
-Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diversas conquistas mentalmente, e ainda continio criando metas novas a cada dia, este repositório tem o objetivo de organizar isso, e quem sabe motivar alguem a se divertir junto comigo nessa jornada tão cheia de reconpensas reias que a vida de contribuiddor.
+Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diversas conquistas mentalmente, e ainda continuo criando metas novas a cada dia. Este repositório tem o objetivo de organizar tudo isso, e quem sabe motivar alguém a se divertir junto comigo nessa jornada tão cheia de reconpemsas reais que a vida de contribuidor tem a oferecer :)
 
-###Resultados Parciais
+###Resultados Parciais :checkered_flag:
 **1º Mês** - **77** Commits / **19** Pull Requests / **4** Issues
 
-###Conquistas
+###Conquistas :trophy:
 **Projetos pessoais**
 - [x] Criar 1 projeto relevante
 - [x] 1 Star em um projeto
 - [ ] Criar 5 projetos relevantes
-- [x] 10 Stars em um unico projeto
-- [x] 25 Stars em um unico projeto
-- [ ] 50 Stars em um unico projeto
-- [ ] 75 Stars em um unico projeto
-- [ ] 100 Stars em um unico projeto
+- [x] 10 Stars em um único projeto
+- [x] 25 Stars em um único projeto
+- [ ] 50 Stars em um único projeto
+- [ ] 75 Stars em um único projeto
+- [ ] 100 Stars em um único projeto
 - [ ] 5 projetos com mais de 10 Stars
 
 **Contribuições**
@@ -34,8 +34,8 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [ ] Ser chamado para participar de uma organização
 
 **Conquistas especiais**
-- [ ] 1 commit por hora durante 24 horas consecutivas.
-- [ ] 1 Pull Request por dia durante 10 dias em projetos diferentes.
+- [ ] 1 commit por hora durante 24 horas consecutivas
+- [ ] 1 Pull Request por dia durante 10 dias seguidos em projetos diferentes
 
 **Outros**
 - [x] Ter um projeto divulgado em alguma Weekly
@@ -46,13 +46,13 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [ ] 100 Followers
 - [ ] Atingir 1.000 contribuições
 
-##Registro da aventura
+##Registros da aventura :memo:
 - [Epsode I - A Ameaça Fantasma | Maio - 2015](https://medium.com/@afonsopacifer/commit-wars-5c51ddd837cd)
 
-##Dicas
+##Dicas :bulb:
 - Os commits devem ser feitos nas primeiras horas do dia, por exemplo as 00:30h.
 
-##Referências
+##Referências :page_facing_up:
 - [Raphael Amorim - Como ser um desenvolvedor transante - Parte I](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f)
 - [Raphael Amorim - Writting code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f)
 - [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
