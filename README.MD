@@ -11,11 +11,13 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 ###Resultados Parciais :checkered_flag:
 **1º Mês** - **77** Commits / **19** Pull Requests / **4** Issues
 
+**2º Mês** - **105** Commits / **8** Pull Requests / **8** Issues
+
 ###Conquistas :trophy:
 **Projetos pessoais**
 - [x] Criar 1 projeto relevante
 - [x] 1 Star em um projeto
-- [ ] Criar 5 projetos relevantes
+- [x] Criar 5 projetos relevantes
 - [x] 10 Stars em um único projeto
 - [x] 25 Stars em um único projeto
 - [ ] 50 Stars em um único projeto
