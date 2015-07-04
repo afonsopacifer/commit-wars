@@ -20,7 +20,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [x] Criar 5 projetos relevantes
 - [x] 10 Stars em um único projeto
 - [x] 25 Stars em um único projeto
-- [ ] 50 Stars em um único projeto
+- [x] 50 Stars em um único projeto
 - [ ] 75 Stars em um único projeto
 - [ ] 100 Stars em um único projeto
 - [ ] 5 projetos com mais de 10 Stars
