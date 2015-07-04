@@ -33,7 +33,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 **Amigos**
 - [ ] Criar um projeto em conjunto com amigos
 - [ ] Criar uma organização
-- [ ] Ser chamado para participar de uma organização
+- [x] Ser chamado para participar de uma organização
 
 **Conquistas especiais**
 - [ ] 1 commit por hora durante 24 horas consecutivas
