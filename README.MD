@@ -28,7 +28,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 **Contribuições**
 - [x] 1 Pull Request aceito
 - [x] Contribuir para 5 projetos relevantes
-- [ ] Contribuir para um projeto grande (+ 1.000 Stars)
+- [x] Contribuir para um projeto grande (+ 1.000 Stars)
 
 **Amigos**
 - [ ] Criar um projeto em conjunto com amigos
@@ -46,7 +46,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [ ] 50 Followers
 - [ ] 75 Followers
 - [ ] 100 Followers
-- [ ] Atingir 250 contribuições
+- [x] Atingir 250 contribuições
 - [ ] Atingir 500 contribuições
 - [ ] Atingir 750 contribuições
 - [ ] Atingir 1.000 contribuições
