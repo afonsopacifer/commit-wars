@@ -31,7 +31,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [x] Contribuir para um projeto grande (+ 1.000 Stars)
 
 **Amigos**
-- [ ] Criar um projeto em conjunto com amigos
+- [x] Criar um projeto em conjunto com amigos
 - [ ] Criar uma organização
 - [x] Ser chamado para participar de uma organização
 
