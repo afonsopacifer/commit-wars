@@ -60,9 +60,9 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 
 ##Referências :page_facing_up:
 - [Raphael Amorim - Como ser um desenvolvedor transante - Parte I](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f)
-- [Raphael Amorim - Writting code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f)
+- [Raphael Amorim - Writing code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f)
 - [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
-- [Mark Zuckerbergs - Code every day](http://www.zdnet.com/article/mark-zuckerbergs-personal-challenge-for-2012-code-every-day/)
+- [Mark Zuckerberg - Code every day](http://www.zdnet.com/article/mark-zuckerbergs-personal-challenge-for-2012-code-every-day/)
 
 ##Licença
 [MIT Licence](licence.md) © Afonso Pacifer
