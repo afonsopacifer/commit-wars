@@ -42,7 +42,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 **Outros**
 - [x] Ter um projeto divulgado em alguma Weekly
 - [x] 10 Followers
-- [ ] 25 Followers
+- [x] 25 Followers
 - [ ] 50 Followers
 - [ ] 75 Followers
 - [ ] 100 Followers
