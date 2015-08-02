@@ -13,6 +13,8 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 
 **2º Mês** - **105** Commits / **8** Pull Requests / **8** Issues
 
+**3º Mês** - **71** Commits / **11** Pull Requests / **4** Issues
+
 ###Conquistas :trophy:
 **Projetos pessoais**
 - [x] Criar 1 projeto relevante
@@ -54,6 +56,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 ##Registros da aventura :memo:
 - [Episode I - A Ameaça Fantasma | Maio - 2015](https://medium.com/@afonsopacifer/commit-wars-5c51ddd837cd)
 - [Episode II - Ataque dos Clones | Junho - 2015](https://medium.com/@afonsopacifer/commit-wars-a6cd5372b46)
+- [Episode III - A vingança dos Commits | Julho - 2015](https://medium.com/@afonsopacifer/commit-wars-880d05f61831)
 
 ##Dicas :bulb:
 - Os commits devem ser feitos nas primeiras horas do dia, por exemplo as 00:30h.
