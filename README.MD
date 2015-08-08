@@ -1,6 +1,6 @@
 ![commit wars](cover.png)
 #Commit Wars
-Minhas aventuras pelo mundo Open Source na jornada *[Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)*.
+Minhas aventuras pelo mundo Open Source na jornada *[Write Code Every Day](http://writecodeeveryday.io/)*.
 
 > Inspirado por [Raphael Amorim](https://github.com/raphamorim) e [sua história](https://github.com/raphamorim/500-dias-de-open-source).
 
