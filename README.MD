@@ -6,7 +6,7 @@ Minhas aventuras pelo mundo Open Source na jornada *[Write Code Every Day](http:
 
 ##Minha Gamificação :video_game:
 
-Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diversas conquistas mentalmente, e ainda continuo criando metas novas a cada dia. Este repositório tem o objetivo de organizar tudo isso, e quem sabe motivar alguém a se divertir junto comigo nessa jornada tão cheia de reconpemsas reais que a vida de contribuidor tem a oferecer :)
+Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diversas conquistas mentalmente, e ainda continuo criando metas novas a cada dia. Este repositório tem o objetivo de organizar tudo isso, e quem sabe motivar alguém a se divertir junto comigo nessa jornada tão cheia de recompensas reais que a vida de contribuidor tem a oferecer :)
 
 ###Resultados Parciais :checkered_flag:
 **1º Mês** - **77** Commits / **19** Pull Requests / **4** Issues
