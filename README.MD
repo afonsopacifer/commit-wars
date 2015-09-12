@@ -62,6 +62,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - Os commits devem ser feitos nas primeiras horas do dia, por exemplo as 00:30h.
 
 ##Referências :page_facing_up:
+- [Raphael Amorim - 500 Days of Open Source](https://speakerdeck.com/raphamorim/500-days-of-open-source)
 - [Raphael Amorim - Como ser um desenvolvedor transante - Parte 1](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f)
 - [Raphael Amorim - Como ser um desenvolvedor transante - Parte 2](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-descolado-6d085bcb36e1)
 - [Raphael Amorim - Writing code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f)
