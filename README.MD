@@ -45,7 +45,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [x] Ter um projeto divulgado em alguma Weekly
 - [x] 10 Followers
 - [x] 25 Followers
-- [ ] 50 Followers
+- [x] 50 Followers
 - [ ] 75 Followers
 - [ ] 100 Followers
 - [x] Atingir 250 contribuições
@@ -68,6 +68,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [Raphael Amorim - Writing code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f)
 - [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 - [Mark Zuckerberg - Code every day](http://www.zdnet.com/article/mark-zuckerbergs-personal-challenge-for-2012-code-every-day/)
+- [100 shades of green: The journey of a coder](https://wafflespeanut.github.io/blog/2015/09/07/100-shades-of-green-the-journey-of-a-coder-dot-dot-dot/)
 
 ##Licença
 [MIT Licence](licence.md) © Afonso Pacifer
