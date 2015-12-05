@@ -65,6 +65,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [x] Atingir 500 contribuições
 - [ ] Atingir 750 contribuições
 - [ ] Atingir 1.000 contribuições
+- [ ] [24 pullrequests](http://24pullrequests.com/)
 
 <hr>
 
