@@ -69,29 +69,6 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 
 <hr>
 
-## Desafio especial :calendar:
-
-Após 6 meses de contribuições, percebi que de nada adianta fazer as mesmas coisas, resolver os mesmo problemas e o pior usar as mesas tecnologias e ferramentas sempre. Sem duvidas essa rotina não faz bem, já que no fim de nada adianta ter 1.000 commits e não aprender nada com isso, por isso, na segunda metade do meu desafio, criei algumas regras especiais para animar um pouco as coisas, são elas:
-
-- *A cada 15 dias a tecnologia usada nas contribuições deve mudar.*
-- *A tecnologia em foco não pode se repetir au longo do tempo.*
-- *As tecnologias presentes em meus projetos pessoais, mesmo antigos, não podem ser mais usadas como foco.*
-
-**OBS:** Nesse contexto, entende-se o termo tecnologia como qualquer Linguagem, Framework, metodologia, biblioteca, ferramenta ou qualquer outra coisa que tenha haver com desenvolvimento :)
-
-### 1º Desafio - 01/11/15 a 15/11/15
-
-**Tecnologias escolhidas:**
-- [NodeJS](https://nodejs.org/en/) (fs/assert)
-- [Commander](https://github.com/tj/commander.js)
-- [Mocha](http://mochajs.org/)
-- [Travis CI](https://travis-ci.org/)
-
-**Projetos envolvidos:**
-- [pacificator.js](https://github.com/afonsopacifer/pacificator)
-
-<hr>
-
 ## Registros da aventura :memo:
 - [Episode I - A Ameaça Fantasma | Maio - 2015](https://medium.com/@afonsopacifer/commit-wars-5c51ddd837cd)
 - [Episode II - Ataque dos Clones | Junho - 2015](https://medium.com/@afonsopacifer/commit-wars-a6cd5372b46)
