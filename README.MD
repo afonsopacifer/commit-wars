@@ -59,7 +59,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [x] 10 Followers
 - [x] 25 Followers
 - [x] 50 Followers
-- [ ] 75 Followers
+- [x] 75 Followers
 - [ ] 100 Followers
 - [x] Atingir 250 contribuições
 - [x] Atingir 500 contribuições
