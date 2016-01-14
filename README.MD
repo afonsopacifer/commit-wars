@@ -104,4 +104,4 @@ Uma lista de projetos pessoais, que tem seus commits ignorados como commit útil
 <hr>
 
 ## Licença
-[MIT Licence](licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+[MIT License](license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
