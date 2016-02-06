@@ -54,6 +54,9 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [ ] 1 commit por hora durante 24 horas consecutivas
 - [ ] 1 Pull Request por dia durante 10 dias seguidos em projetos diferentes
 
+**Resultados inesperadas :)**
+- [x] Ter +100 Pull Requests aceitos
+ 
 **Outros**
 - [x] Ter um projeto divulgado em alguma Weekly
 - [x] 10 Followers
