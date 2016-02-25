@@ -89,7 +89,7 @@ Uma lista de projetos pessoais, que tem seus commits ignorados como commit útil
 
 - [commit-wars](https://github.com/afonsopacifer/commit-wars)
 - [the-collection](https://github.com/afonsopacifer/the-collection)
-- dev-notes (private)
+- [dev-notes](https://github.com/afonsopacifer/dev-notes)
 - [my-dependencies-for-life](https://github.com/afonsopacifer/my-dependencies-for-life)
 
 <hr>
