@@ -1,4 +1,5 @@
 ![commit wars](cover.png)
+
 # Commit Wars
 Minhas aventuras pelo mundo Open Source na jornada *[Write Code Every Day](http://writecodeeveryday.io/)*.
 
@@ -54,9 +55,6 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [ ] 1 commit por hora durante 24 horas consecutivas
 - [ ] 1 Pull Request por dia durante 10 dias seguidos em projetos diferentes
 
-**Resultados inesperadas :)**
-- [x] Ter +100 Pull Requests aceitos
- 
 **Outros**
 - [x] Ter um projeto divulgado em alguma Weekly
 - [x] 10 Followers
@@ -68,6 +66,11 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 - [x] Atingir 500 contribuições
 - [x] Atingir 750 contribuições
 - [x] Atingir 1.000 contribuições
+
+<hr>
+
+## Resultados inesperados :fire:
+- [x] +100 Pull Requests aceitos
 
 <hr>
 
