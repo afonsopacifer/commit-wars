@@ -48,7 +48,7 @@ Para tornar meus dias mais divertidos e me manter motivado, eu fui criando diver
 
 **Amigos**
 - [x] Criar um projeto em conjunto com amigos
-- [ ] Criar uma organização
+- [x] Criar uma organização
 - [x] Ser chamado para participar de uma organização
 
 **Conquistas especiais**
